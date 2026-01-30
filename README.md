@@ -1,4 +1,5 @@
-FUTURE_CS_01 Vulnerability Assessment Report – Task 1
+# FUTURE_CS_01 
+Vulnerability Assessment Report 
 
 This repository contains a read-only Web Application Vulnerability Assessment Report completed as Task 1 of the Cyber Security Internship by Future Interns.
 
